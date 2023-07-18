@@ -55,7 +55,7 @@ param_grid = dict(max_features=max_features_range, n_estimators=n_estimators_ran
 # Main panel
 
 # Displays the dataset
-st.subheader('Dataset File')
+st.subheader('Dataset')
 
 #---------------------------------#
 # Model building
